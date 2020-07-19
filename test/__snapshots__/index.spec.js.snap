@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Index should match the snapshot 1`] = `
+<div
+  class="container"
+>
+  <div>
+    <h1
+      class="title"
+    >
+      
+      nuxt-mock-client-only
+    
+    </h1>
+     
+    <div
+      class="components"
+    >
+      <componenta-stub />
+       
+      <div>
+        <componentb-stub />
+      </div>
+    </div>
+  </div>
+</div>
+`;
