@@ -1,7 +1,7 @@
 {
   "name": "nuxt-mock-client-only",
   "version": "1.0.0",
-  "description": "My magnificent Nuxt.js project",
+  "description": "Example of a client-only component",
   "author": "andre",
   "private": true,
   "scripts": {

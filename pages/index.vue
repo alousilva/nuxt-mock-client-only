@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <h1 class="title">
-        nuxt-mock-client-only
+        nuxt-mock-client-only example
       </h1>
       <div class="components">
         <ComponentA />
